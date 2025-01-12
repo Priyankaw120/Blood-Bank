@@ -1,0 +1,4 @@
+>>npm run server ___to run backend
+>>npm run client ___to run frontend
+
+>>npm run dev ___to run both front and backend at a time
